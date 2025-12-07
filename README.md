@@ -58,22 +58,19 @@ The analysis provides a comprehensive view of the sales process, from initial co
 The following images represent the key visualizations created using this dataset:
 
 1.  **Sales Performance Dashboard 1:**
-    * *This Dashboard represent all the name of call center and their work *
-    * ![Visualization sa1.png](<img width="1845" height="648" alt="sa1" src="https://github.com/user-attachments/assets/d864c390-20da-45e3-a3cf-46e13f6805a2" />)
+    * High-Level Summary of Overall Sales Performance over time or across agents.*
+    * It presents a Monthly Trend Chart or a Key Performance Indicator (KPI) Summary Card for the entire sales team.
       
 <img width="1845" height="648" alt="sa1" src="https://github.com/user-attachments/assets/d864c390-20da-45e3-a3cf-46e13f6805a2" />
 
+
 2.  **Sales Performance Dashboard 2:**
-    * insert a slicer to select a spacific name to get it's information *
-    * ![Visualization sa2.png](<img width="1841" height="657" alt="sa2" src="https://github.com/user-attachments/assets/9922ce45-46df-4b9b-8599-41c7b9b34a35" />)
-<img width="1841" height="657" alt="sa2" src="https://github.com/user-attachments/assets/9922ce45-46df-4b9b-8599-41c7b9b34a35" />
+    * This visualization focuses on the detailed performance breakdown of an individual sales agent (selected via a filter, likely a slicer or dropdown). I chose Bob *
+   <img width="1841" height="657" alt="sa2" src="https://github.com/user-attachments/assets/9922ce45-46df-4b9b-8599-41c7b9b34a35" />
 
 ***
 
 ## 🛑 Copyright, Attribution, and Disclaimer
+I have already done that dashboard but I use the dataset from MyOnlineTraningHub, it is from **Mynda Treacy**
 
-**This section is included to comply with the terms specified in the `Copyright.csv` file.**
-
-
-* Individual users are permitted to recreate the dashboard and use the data for **personal practice only**, it is from **Mynda Treacy**.
 
